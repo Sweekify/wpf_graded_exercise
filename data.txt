@@ -1,0 +1,11 @@
+201;Anne;23;10
+205;Peter;25;9
+206;Kirsten;24;8
+213;Jens;27;6
+210;Mette;20;6
+198;Michael;21;8
+218;Helle;28;9
+220;Kristian;23;0
+221;Lars;22;6
+212;Anders;19;8
+211;Hanne;25;7
